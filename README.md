@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sanjaykrishu
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m @sanjaykrishna
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
